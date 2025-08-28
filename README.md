@@ -1,6 +1,6 @@
 Task 1: Read a File and Handle Errors
 <br>
-Problem Statement: <br><br
+Problem Statement: <br><br>
 Write a Python program that: <br>
 
 Opens and reads a text file named sample.txt. <br>
