@@ -9,8 +9,7 @@ Prints its content line by line. <br>
 
 Handles errors gracefully if the file does not exist. <br>
 
-Solution Highlights: <br><br
-
+Solution Highlights: <br><br>
 Used try-except block to handle errors. <br>
 
 Used with open("sample.txt", "r") for safe file handling. <br>
